@@ -1,2 +1,4 @@
 # python-basic
-파이썬 기초 학습
+
+[파이썬을 파이썬 답게](https://github.com/rollo231/python-basic/tree/main/pytonic)
+
